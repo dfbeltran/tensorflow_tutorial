@@ -140,3 +140,6 @@ cython_debug/
 # Project 
 pizza_steak/*
 10_food_classes_all_data/*
+10_food_classes_10_percent/*
+*.zip
+__MACOSX/*
