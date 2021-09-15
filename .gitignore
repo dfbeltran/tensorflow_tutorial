@@ -145,3 +145,4 @@ pizza_steak/*
 __MACOSX/*
 tensorflow_hub/*
 transfer_learning/*
+10_food_classes_1_percent/*
