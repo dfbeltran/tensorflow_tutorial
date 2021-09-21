@@ -147,3 +147,9 @@ tensorflow_hub/*
 transfer_learning/*
 10_food_classes_1_percent/*
 tmp/*
+101_food_classes_10_percent_save_big_model/*
+custom_food_images/*
+checkpoint
+101_food_classes_10_percent/*
+06_101_food_class_10_percent_saved_big_dog_model/*
+checkpoint
